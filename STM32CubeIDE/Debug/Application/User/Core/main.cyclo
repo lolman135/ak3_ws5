@@ -1,0 +1,11 @@
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:118:5:main	2
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:157:19:CS43L22_WriteReg	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:162:9:CS43L22_ReadReg	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:169:19:CS43L22_Init	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:181:6:CS43L22_PlayBeep	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:187:6:CS43L22_StopBeep	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:191:6:Update_LED_Show	3
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:204:6:Reset_LEDs	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:208:6:Play_Imperial_March	8
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:241:6:SystemClock_Config	1
+/Users/lolman15/AK3Labs/IO_31_Kusovskyi_Kyrylo_lab5/Core/Src/main.c:246:6:Error_Handler	1

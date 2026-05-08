@@ -186,6 +186,7 @@ void CS43L22_PlayBeep(uint8_t frequency, uint8_t volume) {
 
 void CS43L22_StopBeep(void) {
     CS43L22_WriteReg(CS43L22_REG_BEEP_TONE_CFG, 0x80);
+    Reset_LEDs();
 }
 
 void Update_LED_Show(uint8_t note_frequency) {
